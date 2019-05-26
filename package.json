@@ -1,8 +1,48 @@
 {
-  "name": "react-native-photo-browser",
-  "version": "0.4.0",
+  "_from": "git://github.com/halilb/react-native-photo-browser.git#master",
+  "_id": "react-native-photo-browser@0.4.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-photo-browser",
+  "_phantomChildren": {
+    "core-js": "1.2.7",
+    "isomorphic-fetch": "2.2.1",
+    "loose-envify": "1.4.0",
+    "object-assign": "4.1.1",
+    "promise": "7.3.1",
+    "setimmediate": "1.0.5",
+    "ua-parser-js": "0.7.19"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/halilb/react-native-photo-browser.git#master",
+    "rawSpec": "git://github.com/halilb/react-native-photo-browser.git#master",
+    "saveSpec": "git://github.com/halilb/react-native-photo-browser.git#master",
+    "fetchSpec": "git://github.com/halilb/react-native-photo-browser.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/halilb/react-native-photo-browser.git#338b60548d1b91cf61846af12299ec107baa24c8",
+  "_spec": "git://github.com/halilb/react-native-photo-browser.git#master",
+  "_where": "/Users/sabry/test/react-native-photo-browser/Example",
+  "author": {
+    "name": "Halil Bilir",
+    "email": "hbilir@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/halilb/react-native-photo-browser/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "15.5.10",
+    "react-native-progress": "^3.2.0"
+  },
+  "deprecated": false,
   "description": "Local and remote photo browser with captions, selections and grid view support for react native.",
-  "license": "MIT",
+  "homepage": "https://github.com/halilb/react-native-photo-browser#readme",
   "keywords": [
     "react",
     "react-component",
@@ -13,19 +53,13 @@
     "ios",
     "android"
   ],
+  "license": "MIT",
   "main": "lib/index.js",
-  "scripts": {},
+  "name": "react-native-photo-browser",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/halilb/react-native-photo-browser.git"
   },
-  "bugs": {
-    "url": "https://github.com/halilb/react-native-photo-browser/issues"
-  },
-  "author": "Halil Bilir <hbilir@gmail.com>",
-  "homepage": "https://github.com/halilb/react-native-photo-browser#readme",
-  "dependencies": {
-    "react-native-progress": "^3.2.0",
-    "prop-types": "15.5.10"
-  }
+  "scripts": {},
+  "version": "0.4.0"
 }
